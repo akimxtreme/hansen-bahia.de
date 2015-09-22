@@ -1,0 +1,55 @@
+<?php require_once('views/template/head.php'); ?>
+<?php require_once('views/menu-horizontal.php'); ?>
+    <div id="main" style="left:0;top:130px;"> 
+    <div class="page home">
+    <div class="pageheader">
+        <div class="headercontent">
+            <div class="section-container">
+
+                <h2 class="title"><i class="fa fa-circle-o"></i> Holzschnitte zum "Noah"</h2>               
+                <div class="row">
+                    <div class="col-md-12">
+                        
+                        <p class="text-justify">Als ich mich für Prof. Hansen-Bahia als Mitarbeiter an meinem Buch "Noah und seine Kinder" entschied, war es mir klar, daß ich mir mit dieser Wahl nicht einen Illustrator verschaffte. Was ich suchte, war: nicht Buchschmuck, nicht Stützen für die Fantasie des Lesers, nicht den Autor spielerisch ergänzende Einzelheiten, sondern: dasselbe noch   einmal ! Dieselbe Thematik aus dem Nacheinander des epischen Flusses übersetzt in das Nebeneinander des Bildes. Das bedeutet: ein in den Nebeln der Vergangenheit treibendes Menschheitsgeschehen rückt jäh und hart nach vorn, in die Gleichzeitigkeit mit uns. Ein kühnes Unterfangen, und darum ein Glück für die beiden Autoren, daß sie die sintflutliche Welt nirgendwo außerhalb ihrer selbst entdecken konnten, sondern daß sie hinabsteigen mußten in die tieferen Schichten ihrer Seele, wo der Mythos gewissermaßen als geistiges Gen schlummert, eine Überlieferung von Anfang her.</p>
+
+<p class="text-justify">Ich war leicht erschrocken, als dann mein erster Blick auf die Blätter fiel, es war wie der Anprall einer plötzlich aus der Tiefe aufsteigenden Woge: blendender Schaum, schaukelnde Kraft und - auch das ! - ein unbestimmbar schwarzer Bodensatz : Mitgift des Abgrunds. Ein gebändigtes Ungetüm also, was uns aus diesen Blättern der Sintflut angriff. Jemand, der neben mir stand, sagte mit einer Stimme, als fröstelte ihn: "Nein, wie brutal!" Es klang nicht wie ein Lob, und so fragte ich unwillig, ob denn ein Fachmann mythischer Szenerien meine Sintflut hätte illustrieren sollen. Geordnete Meere mit schön gekräuselten Wellen braucht man nicht zu verachten, indes - Noah hatte es mit dem Wasser der Vernichtung zu tun, und der Meister, der diese Bilder aus dem Holz schnitt, mit Menschen, deren Schicksal und Gebärdensprache zwischen dem unbegreiflichen Ende ihrer Welt und dem ebenso unbegreiflichen neuen Anfang ausgespannt lag. Ein Mensch unserer Tage steht diesem Thema, diesem Noah und seinen Kindern näher als selbst große, ahnungsvolle Naturen aus andern Jahrhunderten, einfach weil er Art und Ausmaß unserer Zerstörungskräfte kennt, weil er weiß, was möglich ist.</p>
+
+<p class="text-justify">Wenn also Hansen-Bahias Formensprache "brutal" wirkt, so entspricht das dem ersten Gesetz, daß der Stoff die Form mit sich bringt; und dem anderen, daß die Form den Stoff aufzufressen hat. Dieser Stoff aber ist ungeheuerlich, und die Form ist wie die Riesenschlange nach dem Fraße, von dem, was sie verschlungen hat, gezeichnet.</p>
+<blockquote>
+<p>Stefan Andres +</p>
+</blockquote>
+                  </div>
+                  <div class="col-md-12">
+                   <h2 class="title">"Odysseus"</h2>
+                      <p class="text-justify">Zu den mancherlei Gaben, über die der Holzschneider Hansen-Bahia verfügt und die ihn auszeichnen, gehört sein erstaunliches Erzählertalent. An seltsamen Erlebnissen und Abenteuern, Begegnungen und Erfahrungen ebenso reich wie an Phantasie und Einbildungskraft, weiß er seine Zuhörer merkwürdig zu fesseln und die gebannt Lauschenden auf suggestive Weise zu verzaubern. Ein bewundernswertes Gedächtnis suffliert ihm dabei. Seine Einfälle, skurril, grotesk, manchmal auch makaber, sprudeln und kommen schöpferisch-geistvollen Fabulieren, die sich nicht genug tun kann und sich des Wortes wie des Holzes als Medium und Material bedient.</p>
+
+<p class="text-justify">Die Freunde des Künstlers - der Kreis seiner Freunde ist nicht eben klein - kennen und lieben seine Kunst des improvisierten Erzählens und haben bei gelegentlichen Symposien erlebt, wie es ihn immer wieder zu hymnischen Aussagen hinreißt, wie seine mündlichen Schilderungen S. Miguels - des Hafenviertels von Bahia und seiner Menschen - zu dithyrambischen Lobreden werden und wie er selbst am Ende, wenn es in bacchantischen Tiraden mit ihm durchgeht, die überdimensionale Gestalt des unvergänglichen Rhapsoden annimmt und - Barde wie Troubadour - Homer-Odysseus, die Scheherezade, Casanova und Münchhausen, wie er alles in einem wird.</p>
+
+<p class="text-justify">Die Heimkehr aus Irrungen und Wirrungen, das Nach-Haus-und-zu-sich-selbst-Finden, bleibt das große Thema der Weltliteratur und wird besonders nach starken Erschütterungen und schweren Heimsuchungen immer wieder neu variiert.</p>
+
+<p class="text-justify">Auch Hansen-Bahia gelangte erst auf weiten Umwegen an seinen gegenwärtigen künstlerischen Standort. Er hat diese Lehr- und Wanderjahre selber wiederholt als seine Odyssee angesehen und bezeichnet und sich in mehr als einer Situation in Homers erfindungsreichem Helden wiedererkannt.</p>
+
+<p class="text-justify">Mit dieser Spiegelung in dem unvergänglichen antiken Vorbild steht Hansen-Bahia nicht allein da. Wir begegnen ihr in der Kunst der Gegenwart immer wieder, ganz zu schweigen von der modernen Literatur, in der wir die letzten Irrfahrer just mit Thomas Wolfe und Ernest Hemingway erlebt haben. Die Reihe der Maler geht von Max Beckmann, der sich in seinen Tagebüchern häufig mit Odysseus identifizierte, bis zu Werner Gilles, den an den sonnendurchglühten Gestaden des Mittelmeeres der lebendige Odem archaischer Vorzeit anwehte. "T'ja t'ja, - wie viele Odysseuse gibt es?" fragt Beckmann am 6. November 1943 in seinem Tagebuch. Kurz zuvor hatte er "Odysseus und Kalypso" beendet, das heute die Kunsthalle Hamburg besitzt.</p>
+
+<p class="text-justify">Gewiß steht hinter jeder künstlerischen Gestaltung das persönliche Erlebnis, die eigene Anschauung, die selbstgewonnene Überzeugung. Mag die Erinnerung an den Anlaß auch längst verschüttet sein und der Bezug darauf dem Schaffenden selbst gar nicht mehr zum Bewußtsein kommen. Indirekt schreibt der Dichter immer Selbstbiographie und gibt der Maler mit jedem Bild eine Selbstdarstellung. Mag die Umschreibung auch noch so weit von der Person des Schreibers fortführen und das Motiv, der behandelte Gegenstand, dem Maler noch so fern liegen oder sich gar ins Gegenstandslose verflüchtigen, im Grunde offenbart der Maler mit jedem Pinselstrich, ebenso wie der Dichter mit jedem Federzug, mehr von seinem Persönlichsten, als er vielleicht wahrhaben mag und ihm lieb sein kann. Was wissen wir denn von den letzten Beweggründen unseres Tun und Lassens?</p>
+
+<p class="text-justify">Hansen-Bahias erste Odysseus-Blätter (mit Ausnahme von einem Blatt "Odysseus in Bahia", 1958; Kat. Nr. 160) entstanden 1960 auf Burg Tittmoning, unmittelbar nach den Holzschnitten zu den Songs der Dreigroschenoper von Brecht. Sämtliche Tafeln - großartig schon im Formalen, in der Art und Weise, wie sich die freistehenden Figuren in das Geviert des imaginären Raumes fügen (vgl. Kat. Nr. 32-34) zeigen einen Odysseus, der die honigsüßen Früchte der Lotophagen gewiß ebensowenig verschmäht wie Kirkes Fülle des Fleisches und süßen Weines oder Kalypsos schöngewölbte Grotte. Dennoch denkt er nicht daran, der Heimat für immer zu entsagen, den Lauf der rollenden Jahre zu beenden und sich als Lotospflücker zu verdingen.</p>
+
+<p class="text-justify">ganz anders etwa der Odysseus Beckmanns, der allen Lockungen Kalypsos kühlen Blickes begegnet und die Arme lässig im Nacken verschränkt. Beckmann. - Hansen verehrt ihn wie nur einer - hat sein Bild in tiefer Depression gemalt. Odysseus und Kalypso umgeben Fabelwesen, unheimliches apokalyptisches Getier. Der Sinn des symbolträchtigen Bildes bleibt verborgen. Beckmann wollte die Verschlüsselung seiner Bildgedanken: "Sterne sind unsere Augen. Weltnebel unsere Bärte, Menschenseelen unser Herz. Wir verstecken uns, Ihr seht uns nicht; doch das wollen wir gerade in Morgenröte, um Mittag und in schwarzer Nacht."</p>
+
+<p class="text-justify">Hansen-Bahia hat seinen Odysseus von 1960 (Kat. Nr. 243 ff.) gleichfalls chiffriert, jedoch nicht, um die Fülle der Gesichte und böse Ahnungen zu bannen, sondern um seine heitere Selbstironie zu maskieren und die Neigung zu kaschieren, Hohn und Spott über "göttergleiche" Helden auszuschütten. Sein Hang zur Persiflage geht so weit, daß er sich selbst über die Lustigkeit lustig macht und noch die Karikatur wieder karikiert: zum Beispiel in seinen Holzschnitten zu den Songs der Dreigroschenoper. In ihm ist jene Travestierungslust, von der Karl Scheffler (als er sie bei dem jungen Pascin wahrnahm) sagte, sie stelle auf unwahrscheinlichen Umwegen die Natur wieder her. Immer wieder durchstößt Hansen-Bahia den doppelten Boden, um Menschen und Dinge zu ergründen und ihre wahre Natur zu erkennen.</p>
+
+<p class="text-justify">Die Holzschnittfolge beginnt mit dem Erzähler Odysseus, dessen Kopf und Hals eher einem windgedörrten Galgenvogel vom Format eines François Villon gehören könnte als einem göttergleichen Helden. Das verschmitzte Gesicht des Rhapsoden läßt von vornherein Zweifel an der Glaubwürdigkeit seiner Erzählung aufkommen. Schwerlich zu denken, daß er in diesem Aufzug seine Abenteuer an der Tafel des Phäakenkönigs Alkinoos zum besten gab und daß eine Nausikaa Gefallen an ihm gehabt haben soll. Eher schon mag er in dieser Verfassung den Sauhirten auf Ithaka einen Bären aufgebundenen haben. Ist er überhaupt der Odysseus Homers und nicht vielmehr der Seefahrer Sindbad oder gar der alte Segelflicker Francisco, der das Mysterium der See kennt und der an den Kais im Hafen von Bahia seine Geschichten von Jemanjá, der Königin der Meere, und ihren verhängnisvollen Lockungen zum besten gibt ? Auch Hansen ist einer von denen, die eine Legende zurücklassen, Geschichten, " über die sich die andern am Hafen Gedanken machen".</p>
+
+<p class="text-justify">"Was sagst du? Hafen? Schiffe? Guter Gott!"  Ja, "wie viele Odysseuse gibt es ? " Beckmann, Wolfe, Hansen-Bahia, sie sind alle Brüder im Geiste. "Ihr seid doch alle gleich. Dein Vater war auch so. Immer wollte er fortgehen und reisen. Hätte ich ihn gehen lassen, er wäre übers Angesicht der Erde gewandert. Guter Gott! Eine Rasse von Wanderern!      Kind! Kind ! ... Was ist es ? SCHIFFE WIEDERUM ! "</p>
+<blockquote>
+<p>Konrad Tegtmeier</p>
+<footer>(Der Text ist mit freundlichem Einverständnis des Verfassers aus dem Vorwort zur Holzschnittfolge "Abenteuer des Odysseus" entnommen.Wissenschaftliche Buchgesellschaft. Darmstadt, 1962.)</footer>
+</blockquote>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<?php require_once('views/template/footer.php'); ?>
